@@ -14,7 +14,7 @@ This project focuses on building an advanced customer service chatbot using Larg
 The Customer Service Chatbot Using LLMs project delivers a scalable solution for automating customer support, enhancing customer satisfaction, and reducing response times with the help of cutting-edge NLP technologies.
 
 
-For more details and a hands-on experience, visit the [Customer Service Chatbot Using LLMs project](https://www.aionlinecourse.com/ai-projects/playground/customer-service-chatbot-using-llms) on [Ai-projects](https://www.aionlinecourse.com/ai-projects).
+For more details and a hands-on experience, visit the [Customer Service Chatbot Using LLMs project](https://www.aionlinecourse.com/ai-projects/playground/customer-service-chatbot-using-llms) on [AI Projects](https://www.aionlinecourse.com/ai-projects).
 
 ---
 ### **2. [Semantic Search System Using Transformers and Vector Database](https://www.aionlinecourse.com/ai-projects/playground/semantic-search-using-msmarco-distilbert-base-faiss-vector-database)**
@@ -32,7 +32,7 @@ This project builds a powerful semantic search system combining transformer mode
 #### **Project Outcome**
 The Semantic Search System demonstrates how AI-driven tools can deliver precise, scalable search results, advancing research and offering real-world applications for improving data retrieval efficiency. 
 
-For more details and a hands-on experience, visit the [Semantic Search System Using Transformers and Vector Database project](https://www.aionlinecourse.com/ai-projects/playground/semantic-search-using-msmarco-distilbert-base-faiss-vector-database) on [Ai-projects](https://www.aionlinecourse.com/ai-projects).
+For more details and a hands-on experience, visit the [Semantic Search System Using Transformers and Vector Database project](https://www.aionlinecourse.com/ai-projects/playground/semantic-search-using-msmarco-distilbert-base-faiss-vector-database) on [AI Projects](https://www.aionlinecourse.com/ai-projects).
 
 ---
 ### **3. [Question Answer System Using DistilBERT-Base-Uncased](https://www.aionlinecourse.com/ai-projects/playground/question-answer-system-training-with-distilbert-base-uncased)**
@@ -49,7 +49,7 @@ This project focuses on building a question-answering (QA) system using the Dist
 #### **Project Outcome**
 The Question Answer System Using DistilBERT-Base-Uncased provides an effective, scalable solution for automating information retrieval, enhancing decision-making processes, and improving user interactions in diverse fields such as research, education, and customer support.
 
-For more details and a hands-on experience, visit the [Question Answer System Using DistilBERT-Base-Uncased project](https://www.aionlinecourse.com/ai-projects/playground/question-answer-system-training-with-distilbert-base-uncased) on [Ai-projects](https://www.aionlinecourse.com/ai-projects).
+For more details and a hands-on experience, visit the [Question Answer System Using DistilBERT-Base-Uncased project](https://www.aionlinecourse.com/ai-projects/playground/question-answer-system-training-with-distilbert-base-uncased) on [AI Projects](https://www.aionlinecourse.com/ai-projects).
 
 ---
 ### **4. [Document Summarization Using Sentencepiece Transformers](https://www.aionlinecourse.com/ai-projects/playground/document-summarization-using-sentencepiece-transformers)**
@@ -67,8 +67,8 @@ This project focuses on building a document summarization system using SentenceP
 #### **Project Outcome**
 The Document Summarization Using Sentencepiece Transformers project provides an efficient and scalable solution for automating the summarization of large documents. This system improves decision-making processes, knowledge discovery, and information retrieval across a wide range of applications.
 
-For more details and a hands-on experience, visit the [Document Summarization Using Sentencepiece Transformers project](https://www.aionlinecourse.com/ai-projects/playground/document-summarization-using-sentencepiece-transformers) on [Ai-projects](https://www.aionlinecourse.com/ai-projects).
+For more details and a hands-on experience, visit the [Document Summarization Using Sentencepiece Transformers project](https://www.aionlinecourse.com/ai-projects/playground/document-summarization-using-sentencepiece-transformers) on [AI Projects](https://www.aionlinecourse.com/ai-projects).
 
 ---
-### **Exciting new [Natural Language Processing Projects](https://www.aionlinecourse.com/ai-projects/categories/natural-language-processing-projects) are coming soon to our website. Visit our site at [Aionlinecourse](https://www.aionlinecourse.com/) to learn the latest projects and stay connected with us!**
+### **Exciting new [Natural Language Processing Projects](https://www.aionlinecourse.com/ai-projects/categories/natural-language-processing-projects) are coming soon to our website. Visit our site at [AI Projects](https://www.aionlinecourse.com/ai-projects) to learn the latest projects and stay connected with us!**
 ---
